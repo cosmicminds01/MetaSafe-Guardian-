@@ -1,6 +1,12 @@
 # 🛡️ MetaSafe Guardian  
 ### AI-Powered Safety Monitoring Platform for Virtual Environments
 
+![Status](https://img.shields.io/badge/status-active-success)
+![Platform](https://img.shields.io/badge/platform-web-blue)
+![AI](https://img.shields.io/badge/AI-powered-purple)
+![Team](https://img.shields.io/badge/team-project-orange)
+![Made With](https://img.shields.io/badge/made%20with-love-red)
+
 **MetaSafe Guardian** is an AI-powered safety monitoring platform developed to detect harmful behavior and protect users in virtual and digital environments.  
 
 The platform enables **real-time incident detection**, **safe-zone management**, and **emergency SOS support**, helping create safer and more inclusive digital communities.  
